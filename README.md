@@ -1,1 +1,3 @@
-# 5v-power-relay-module
+# 5v Power Relay Module
+
+Working on a blog post with details. Updating coming...
